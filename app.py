@@ -1,8 +1,27 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
+import faiss
+import json
+from sentence_transformers import SentenceTransformer
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 app = Flask(__name__)
 CORS(app)
+
+# Load FAISS index
+index = faiss.read_index("faiss_index.index")
+
+# Load chunks
+with open("chunks.json", "r") as f:
+    chunks = json.load(f)
+
+# Load embedding model
+embed_model = SentenceTransformer("all-MiniLM-L6-v2") 
+
+# Load flan-T5 generator
+tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
+model2 = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")
+
 
 @app.route("/chat", methods=["POST"])
 def chat():
