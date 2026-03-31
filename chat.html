@@ -38,5 +38,45 @@
         </div>
     </div>
 
+    <script>
+async function sendMessage() {
+    let inputBox = document.getElementById("user-input");
+    let message = inputBox.value;
+
+    // display user message
+    addMessage("user", message);
+
+    // send to Flask
+    let response = await fetch("http://127.0.0.1:5000/chat", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ message: message })
+    });
+
+    let data = await response.json();
+
+    // display bot response and show sources of answers
+    addMessage("bot", data.response + "\nSources: " + data.sources.join(", "));
+
+    inputBox.value = "";
+}
+</script>
+
+<script>
+function addMessage(sender, text) {
+    let chatBox = document.getElementById("chat-box");
+
+    let messageDiv = document.createElement("div");
+    messageDiv.className = sender;
+
+    messageDiv.innerText = text;
+
+    chatBox.appendChild(messageDiv);
+}
+</script>
+
+
 </body>
 </html>
