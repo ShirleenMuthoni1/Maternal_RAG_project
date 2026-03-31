@@ -1,0 +1,1424 @@
+[
+    {
+        "text": "The World Health Organization provides recommendations for antenatal care to improve the health and wellbeing of pregnant women and their babies. These guidelines aim to ensure a positive pregnancy experience through proper medical care, nutrition, monitoring and support during pregnancy. Effective",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "antenatal_care_overview",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "and support during pregnancy. Effective antenatal care promotes healthy behaviours and ensures appropriate care throughout pregnancy.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "antenatal_care_overview",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "WHO recommends that pregnant women receive a minimum of eight antenatal care contacts with health providers during pregnancy. Regular antenatal visits allow health professionals to monitor the health of the mother and baby. These visits help detect complications early and provide appropriate",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "antenatal_visits",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "complications early and provide appropriate counselling and treatment.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "antenatal_visits",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "Pregnant women should receive counselling on healthy eating, maintaining physical activity and avoiding harmful substances such as tobacco, alcohol and excessive caffeine. A balanced diet containing adequate energy, protein, vitamins and minerals is important for maternal health and fetal",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "nutrition_and_lifestyle_pregnancy",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "is important for maternal health and fetal development.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "nutrition_and_lifestyle_pregnancy",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "WHO recommends daily iron and folic acid supplementation during pregnancy to prevent maternal anaemia, low birth weight and preterm birth. Calcium supplementation may also be recommended in populations with low dietary calcium intake to reduce the risk of pre-eclampsia.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "supplementation_pregnancy",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "During antenatal care visits, health providers assess maternal health through examinations and tests such as screening for anaemia, infections and other medical conditions. These assessments help ensure early detection and management of potential complications.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "maternal_assessment",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "An ultrasound scan before 24 weeks of pregnancy is recommended to estimate gestational age. It also helps detect possible fetal abnormalities and multiple pregnancies, improving pregnancy monitoring and outcomes.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "ultrasound_pregnancy",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "Preventive measures during pregnancy include tetanus vaccination and screening for infections such as HIV and syphilis. In malaria-endemic regions, prevention strategies are also recommended to protect both mother and baby.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preventive_measures_pregnancy",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "Pregnant women should receive counselling on recognizing danger signs and preparing for childbirth. Education during antenatal care improves pregnancy outcomes by promoting healthy behaviours and helps women make informed decisions and respond quickly to complications.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "pregnancy_education",
+            "year": 2016,
+            "url": "https://iris.who.int/server/api/core/bitstreams/9dccde13-3593-4a22-9237-61abe5a3c6b7/content"
+        }
+    },
+    {
+        "text": "Danger signs during pregnancy are symptoms that indicate potential complications that may threaten the life of the mother or baby. These signs require immediate or urgent medical attention depending on their severity. Early recognition and timely care are essential to prevent serious outcomes.",
+        "metadata": {
+            "source": "WHO, CDC, UNICEF, Kenya MoH",
+            "topic": "danger_signs_overview",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Vaginal bleeding during pregnancy is a serious danger sign that requires immediate medical attention. It may indicate complications such as miscarriage or placental problems. Any unusual bleeding should be evaluated by a healthcare provider as soon as possible.",
+        "metadata": {
+            "source": "WHO, CDC, UNICEF, Kenya MoH",
+            "topic": "vaginal_bleeding",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Severe headaches that persist or worsen, especially when accompanied by blurred vision or other visual changes, are danger signs during pregnancy. These symptoms may indicate conditions such as preeclampsia. Immediate medical evaluation is necessary to prevent complications.",
+        "metadata": {
+            "source": "WHO, CDC, Kenya MoH",
+            "topic": "headache_vision",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Convulsions or fits during pregnancy are a medical emergency and may be associated with severe conditions such as eclampsia. This condition can be life-threatening for both the mother and the baby. Urgent hospital care is required.",
+        "metadata": {
+            "source": "WHO, UNICEF, Kenya MoH",
+            "topic": "convulsions",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Trouble breathing, fast breathing, chest pain or a rapidly beating heart are serious danger signs during pregnancy. These symptoms may indicate underlying cardiovascular or respiratory complications. Immediate medical attention is required.",
+        "metadata": {
+            "source": "WHO, CDC",
+            "topic": "breathing_chest_pain",
+            "year": 2024,
+            "url": "https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf"
+        }
+    },
+    {
+        "text": "Severe abdominal or belly pain that does not go away is a danger sign during pregnancy. It may be associated with complications such as infection or placental issues. Medical evaluation should be sought urgently.",
+        "metadata": {
+            "source": "WHO, CDC, UNICEF, Kenya MoH",
+            "topic": "abdominal_pain",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "High fever during pregnancy, especially when accompanied by weakness or inability to get out of bed, may indicate infection. Infections can pose serious risks to both the mother and the baby. Prompt medical treatment is important.",
+        "metadata": {
+            "source": "WHO, CDC, UNICEF, Kenya MoH",
+            "topic": "fever",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Severe or sudden swelling of the face, hands or legs during pregnancy is a warning sign. It may indicate high blood pressure disorders such as preeclampsia. This condition requires medical assessment.",
+        "metadata": {
+            "source": "WHO, CDC, UNICEF, Kenya MoH",
+            "topic": "swelling",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "A decrease or absence of fetal movement is a serious warning sign during pregnancy. It may indicate that the baby is in distress. Mothers should seek immediate medical care if they notice reduced or no movement.",
+        "metadata": {
+            "source": "CDC, UNICEF, Kenya MoH",
+            "topic": "fetal_movement",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Severe nausea and persistent vomiting during pregnancy can lead to dehydration and poor nutrition. If symptoms are intense or do not improve, medical care should be sought. Proper management helps prevent complications.",
+        "metadata": {
+            "source": "CDC, UNICEF",
+            "topic": "nausea_vomiting",
+            "year": 2024,
+            "url": "https://www.unicef.org/timorleste/media/2386/file/Danger%20signs%20for%20women%20-%20English%20.pdf"
+        }
+    },
+    {
+        "text": "Leaking of fluid from the vagina before the due date may indicate rupture of membranes. This increases the risk of infection and preterm birth. Immediate medical attention is required.",
+        "metadata": {
+            "source": "CDC, UNICEF, Kenya MoH",
+            "topic": "fluid_leakage",
+            "year": 2024,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Dizziness or fainting during pregnancy may indicate underlying health problems such as anemia or low blood pressure. Persistent or severe episodes should be evaluated by a healthcare provider.",
+        "metadata": {
+            "source": "CDC",
+            "topic": "dizziness_fainting",
+            "year": 2024,
+            "url": "https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf"
+        }
+    },
+    {
+        "text": "Paleness of the eyes and tongue during pregnancy may indicate anemia. Anemia reduces the oxygen-carrying capacity of the blood and can affect both the mother and baby. Medical assessment and treatment are important.",
+        "metadata": {
+            "source": "Kenya MoH",
+            "topic": "anemia_signs",
+            "year": 2020,
+            "url": "https://health.go.ke/sites/default/files/2023-05/Mother%20Child%20Health%20Handbook%20MOH-FOR%20PRINT.pdf"
+        }
+    },
+    {
+        "text": "Thoughts of harming oneself or the baby during pregnancy are serious warning signs that require immediate attention. These symptoms may indicate severe emotional or mental health challenges. Urgent professional support is necessary.",
+        "metadata": {
+            "source": "CDC",
+            "topic": "mental_health",
+            "year": 2024,
+            "url": "https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf"
+        }
+    },
+    {
+        "text": "Preeclampsia is a high blood pressure disorder that occurs after 20 weeks of pregnancy. It poses serious health risks to both the mother and the baby if not properly managed.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_definition",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Preeclampsia is clinically diagnosed when a pregnant woman has high blood pressure of 140/90 mm Hg or higher along with protein in the urine. These signs indicate potential complications that require medical attention.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_diagnosis",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "If preeclampsia is not properly managed, it can progress to eclampsia. Eclampsia is a severe condition characterized by seizures and can be life-threatening for both the mother and baby.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "eclampsia_progression",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Certain groups of women are at higher risk of developing preeclampsia. These include first-time mothers, women carrying multiple pregnancies, and those with conditions such as obesity, hypertension, diabetes or kidney disease.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_risk_groups",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "A personal or family history of hypertension or preeclampsia increases the risk of developing the condition. Pre-existing medical conditions can further raise the likelihood of complications during pregnancy.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_risk_factors",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Preeclampsia may develop without noticeable symptoms in its early stages. This makes regular antenatal check-ups essential for early detection and management.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_asymptomatic",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Common warning signs of preeclampsia include persistent severe headaches and visual disturbances such as blurred vision or seeing spots. These symptoms may indicate worsening disease.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_neurological_symptoms",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Other symptoms of preeclampsia include swelling of the hands and face, upper abdominal pain, and nausea or vomiting after the first trimester. These signs should be taken seriously and evaluated by a healthcare provider.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_physical_symptoms",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Preeclampsia can affect multiple organs, including the liver, kidneys and brain. Severe cases may result in long-term or permanent organ damage.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_organ_damage",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "A severe complication of preeclampsia is HELLP syndrome, which affects the liver and blood. It is a life-threatening condition that requires immediate medical intervention.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "hellp_syndrome",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Preeclampsia increases the risk of complications such as placental abruption, restricted fetal growth and preterm birth. These complications can affect both maternal and neonatal outcomes.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_pregnancy_risks",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Magnesium sulfate is the primary treatment used to prevent seizures in women with preeclampsia. It is effective in reducing the risk of progression to eclampsia.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "magnesium_sulfate",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Antihypertensive medications are used to control high blood pressure in women with preeclampsia. Managing blood pressure reduces the risk of complications for both mother and baby.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "blood_pressure_control",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Corticosteroids may be given to pregnant women with preeclampsia when early delivery is expected. These medications help accelerate fetal lung development.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "fetal_support",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Preventive strategies for preeclampsia include the use of low-dose aspirin for high-risk women and calcium supplementation in populations with low dietary calcium intake.",
+        "metadata": {
+            "source": "World Health Organization",
+            "topic": "preeclampsia_prevention",
+            "year": 2025,
+            "url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia"
+        }
+    },
+    {
+        "text": "Postpartum hemorrhage is severe or excessive bleeding after childbirth. It is a serious and potentially life-threatening condition that requires immediate medical attention.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_definition",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Severe postpartum hemorrhage can lead to hypovolemic shock, where organs do not receive enough blood. This can result in organ failure if not treated promptly.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_severity",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Postpartum hemorrhage is diagnosed when blood loss exceeds one litre after delivery or when the mother shows signs of instability such as low blood pressure or increased heart rate.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_diagnosis",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Postpartum hemorrhage can occur immediately after childbirth or weeks later. Primary postpartum hemorrhage occurs within the first 24 hours, while secondary postpartum hemorrhage occurs between 24 hours and 12 weeks after delivery.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_timing",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Common symptoms of postpartum hemorrhage include dizziness, feeling faint and an increased heart rate. These signs may indicate significant blood loss and require urgent care.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_symptoms",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "A key sign of postpartum hemorrhage is persistent heavy vaginal bleeding or passing large blood clots. These symptoms require immediate medical attention.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_bleeding_signs",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Signs of shock in postpartum hemorrhage include blurred vision, pale or clammy skin, dizziness and fainting. These symptoms indicate a medical emergency.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_shock_signs",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Other signs of postpartum hemorrhage include rapid heartbeat, shortness of breath and unusual pain or swelling in the vaginal or perineal area.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_physical_changes",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Uterine atony is the most common cause of postpartum hemorrhage. It occurs when the uterus fails to contract properly after delivery, leading to continued bleeding.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "uterine_atony",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Trauma during childbirth, such as tears to the uterus, cervix or vaginal tissues, can cause postpartum hemorrhage. These injuries may lead to significant blood loss.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_trauma",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Postpartum hemorrhage can occur if parts of the placenta remain in the uterus after delivery. Retained tissue prevents the uterus from contracting effectively.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "retained_placenta",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Blood clotting disorders can contribute to postpartum hemorrhage by preventing the body from stopping bleeding effectively. Even minor bleeding can become severe in such cases.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "clotting_disorders",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Risk factors for postpartum hemorrhage include multiple pregnancies, large babies, prolonged or rapid labour, obesity and advanced maternal age. However, some cases occur without any known risk factors.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_risk_factors",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Certain medical conditions and treatments can increase the risk of postpartum hemorrhage. These include clotting disorders, placenta complications, use of magnesium sulfate and general anesthesia.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_medical_risks",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Immediate treatment of postpartum hemorrhage focuses on stopping the bleeding and stabilizing the patient. This includes uterine massage, oxygen support and intravenous fluids.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_emergency_management",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Medical treatment may include medications to stimulate uterine contractions, blood transfusions and iron supplementation. These help restore blood levels and control bleeding.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_medical_treatment",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "In severe cases, procedures such as repairing tears, using balloon catheters or surgical interventions may be required. Rarely, a hysterectomy may be necessary to save the mother’s life.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_surgical_treatment",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Recovery from postpartum hemorrhage includes rest and proper nutrition. Iron-rich foods such as red meat and leafy vegetables help rebuild blood levels.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_recovery",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Postpartum hemorrhage can be a traumatic experience. Emotional support from family or healthcare professionals is important for recovery after childbirth complications.",
+        "metadata": {
+            "source": "Cleveland Clinic",
+            "topic": "pph_emotional_health",
+            "year": 2024,
+            "url": "https://my.clevelandclinic.org/health/diseases/22228-postpartum-hemorrhage"
+        }
+    },
+    {
+        "text": "Gestational diabetes is a condition characterized by high blood glucose levels that develop during pregnancy. It usually resolves after the baby is born.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_definition",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "During pregnancy, the placenta produces hormones that cause insulin resistance. Gestational diabetes occurs when the body cannot produce enough insulin to overcome this resistance, leading to high blood sugar levels.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_cause",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Gestational diabetes is a common condition affecting pregnancy worldwide. It is estimated that about 15.6 percent of live births involve some form of high blood glucose during pregnancy.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_prevalence",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Women who are overweight or obese have a higher risk of developing gestational diabetes. Excess body weight can increase insulin resistance during pregnancy.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_risk_weight",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Advanced maternal age is a risk factor for gestational diabetes. Women over the age of 45 are more likely to develop the condition during pregnancy.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_risk_age",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Women with a history of gestational diabetes or conditions such as polycystic ovary syndrome are at increased risk. These conditions affect how the body regulates blood sugar.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_risk_medical_history",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "A family history of diabetes increases the likelihood of developing gestational diabetes. Genetic factors play a role in how the body processes glucose.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_risk_genetics",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Gestational diabetes often has no noticeable symptoms. This is why routine screening during pregnancy is important for early detection.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_asymptomatic",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "When symptoms occur, they may include increased thirst, frequent urination, fatigue and blurred vision. These symptoms can indicate elevated blood sugar levels.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_symptoms",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Some women with gestational diabetes may experience nausea or frequent infections such as yeast infections. These symptoms are related to high glucose levels in the body.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_additional_symptoms",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Managing gestational diabetes is important to ensure a healthy pregnancy. Proper control of blood sugar levels reduces risks for both the mother and the baby.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_management_importance",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Gestational diabetes is managed through a combination of healthy diet, regular physical activity and sometimes medication such as insulin. These measures help maintain normal blood glucose levels.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_management",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Gestational diabetes increases the risk of high blood pressure and complications during labour. It also raises the likelihood of developing type 2 diabetes later in life.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_maternal_risks",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Babies born to mothers with gestational diabetes may have a higher birth weight and increased risk of obesity or type 2 diabetes later in life. Proper management helps reduce these risks.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_fetal_risks",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Most women with gestational diabetes can have healthy pregnancies and healthy babies. Following a proper management plan is key to achieving good outcomes.",
+        "metadata": {
+            "source": "International Diabetes Federation",
+            "topic": "gdm_outcomes",
+            "year": 2024,
+            "url": "https://idf.org/about-diabetes/types-of-diabetes/gestational-diabetes/"
+        }
+    },
+    {
+        "text": "Maternal infections during pregnancy can pose serious risks to both the mother and the baby. These infections may be bacterial, viral or parasitic and can lead to complications if not detected and treated early.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "maternal_infections_overview",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Chickenpox infection during early pregnancy can lead to congenital varicella syndrome in the baby. This condition may cause brain damage, small head size and vision problems.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "chickenpox",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Chorioamnionitis is a bacterial infection of the amniotic fluid caused by bacteria from the mother’s body. It can lead to serious complications such as sepsis or meningitis in the baby and requires urgent treatment.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "chorioamnionitis",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Chorioamnionitis is treated with immediate intravenous antibiotics. In some cases, early delivery may be necessary to protect the baby from infection-related complications.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "chorioamnionitis_management",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Group B Streptococcus is a common bacteria carried by many women without symptoms. However, it can cause serious infections such as pneumonia or meningitis in newborns.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "gbs",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Pregnant women are routinely screened for Group B Streptococcus between 36 and 37 weeks. If positive, antibiotics are given during labour to reduce the risk of infection in the baby.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "gbs_prevention",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Hepatitis B infection during pregnancy can be transmitted to the baby during birth. Many infected babies develop chronic infection, which may lead to liver disease later in life.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "hepatitis_b",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "If a mother has hepatitis B, the newborn should receive the hepatitis B vaccine and immunoglobulin shortly after birth. This helps prevent long-term infection.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "hepatitis_b_prevention",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Listeriosis is a bacterial infection often acquired from contaminated or raw foods. It may cause mild symptoms in the mother but can lead to severe complications or death in the fetus.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "listeriosis",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Toxoplasmosis is caused by a parasite found in soil, cat feces and undercooked meat. It may not cause symptoms in the mother but can lead to serious damage to the baby’s brain, hearing and vision.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "toxoplasmosis",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Rubella infection during pregnancy can cause congenital rubella syndrome. This condition may result in heart defects, hearing loss and developmental problems in the baby.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "rubella",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Syphilis can be transmitted from the mother to the baby during pregnancy or childbirth. If untreated, it can lead to serious complications including stillbirth or long-term damage.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "syphilis",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Syphilis is routinely screened for during early pregnancy. It can be effectively treated with antibiotics such as penicillin to prevent transmission to the baby.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "syphilis_management",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Urinary tract infections can be diagnosed through simple tests and treated with pregnancy-safe antibiotics. Early treatment helps prevent complications.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "uti_management",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Newborns exposed to infections may show signs such as difficulty breathing, jaundice, lethargy or feeding problems. These symptoms require immediate medical attention.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "newborn_infection_signs",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Severe signs of infection in newborns include fever, seizures and sensitivity to light. These are medical emergencies and require urgent care.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "severe_newborn_symptoms",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Prenatal screening tests are important for detecting infections early in pregnancy. Early diagnosis allows timely treatment and reduces risks to both mother and baby.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "prenatal_screening",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Common prenatal tests include blood tests for infections such as syphilis and rubella, and swab tests for Group B Streptococcus. These tests help guide appropriate treatment during pregnancy.",
+        "metadata": {
+            "source": "Birth Injury Justice Center",
+            "topic": "prenatal_tests",
+            "year": 2026,
+            "url": "https://www.childbirthinjuries.com/birth-injury/maternal-infections/"
+        }
+    },
+    {
+        "text": "Proper maternal nutrition during pregnancy is essential for the health of both the mother and the developing fetus. Adequate nutrition supports fetal growth, maternal wellbeing and reduces the risk of complications. Poor nutrition can lead to adverse outcomes such as low birth weight, stillbirth and",
+        "metadata": {
+            "source": "WHO, UNICEF",
+            "topic": "nutrition_importance",
+            "year": 2012,
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "outcomes such as low birth weight, stillbirth and maternal health problems.",
+        "metadata": {
+            "source": "WHO, UNICEF",
+            "topic": "nutrition_importance",
+            "year": 2012,
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "Pregnancy increases the body's demand for energy, protein, vitamins and minerals. These nutrients are required to support fetal development, expansion of maternal tissues and increased blood volume. Women need more nutrients during pregnancy compared to before pregnancy.",
+        "metadata": {
+            "source": "WHO, UNICEF",
+            "topic": "increased_nutritional_needs",
+            "year": 2012,
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "Pregnant women require a moderate increase in energy intake to support fetal growth. Energy needs increase slightly in the first trimester and more significantly in later stages, averaging about 300 additional calories per day. Total intake should increase by about 10–15% compared to pre-pregnancy",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "energy_requirements",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "by about 10–15% compared to pre-pregnancy levels.",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "energy_requirements",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "Healthy weight gain during pregnancy is an important indicator of maternal and fetal wellbeing. Recommended weight gain generally ranges between 10 to 16 kilograms depending on pre-pregnancy body mass index. Weight gain should occur gradually throughout pregnancy.",
+        "metadata": {
+            "source": "WHO, Kenya MOH",
+            "topic": "weight_gain",
+            "year": 2012,
+            "url": "http://guidelines.health.go.ke:8000/media/National_Guidelines_for_Quality_Obstetrics_and_Perinatal_Care.pdf"
+        }
+    },
+    {
+        "text": "Pregnant women should consume a balanced diet that includes fruits, vegetables, whole grains, dairy products and protein-rich foods. A varied diet helps ensure adequate intake of essential nutrients needed for maternal health and fetal development.",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "balanced_diet",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "Protein is essential during pregnancy for the growth of maternal tissues and fetal development. Good sources of protein include lean meat, fish, eggs, dairy products, legumes, nuts and seeds. Adequate protein intake supports healthy pregnancy outcomes.",
+        "metadata": {
+            "source": "WHO, Aga Khan",
+            "topic": "protein",
+            "year": 2012,
+            "url": "https://hospitals.aku.edu/pakistan/patients-families/Documents/Nutrition%20During%20Pregnancy.pdf"
+        }
+    },
+    {
+        "text": "Carbohydrates should provide the majority of energy during pregnancy, accounting for about 50–60% of total energy intake. Whole grains and complex carbohydrates are preferred as they provide sustained energy and essential nutrients.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "carbohydrates",
+            "year": 2012,
+            "url": "https://cdn.who.int/media/docs/librariesprovider2/country-sites/maternal-nutrition-eng.pdf"
+        }
+    },
+    {
+        "text": "Healthy fats are important during pregnancy, especially omega-3 fatty acids which support fetal brain and eye development. These can be obtained from fish such as salmon and sardines. Saturated and trans fats should be limited.",
+        "metadata": {
+            "source": "WHO, Aga Khan",
+            "topic": "fats_omega3",
+            "year": 2012,
+            "url": "https://hospitals.aku.edu/pakistan/patients-families/Documents/Nutrition%20During%20Pregnancy.pdf"
+        }
+    },
+    {
+        "text": "Adequate dietary fibre intake during pregnancy helps prevent constipation and supports digestive health. Fibre may also reduce the risk of gestational diabetes and preeclampsia.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "dietary_fibre",
+            "year": 2012,
+            "url": "https://cdn.who.int/media/docs/librariesprovider2/country-sites/maternal-nutrition-eng.pdf"
+        }
+    },
+    {
+        "text": "Pregnancy increases the need for essential micronutrients such as iron, folic acid, calcium, iodine and zinc. These nutrients support fetal development, maternal health and prevention of complications.",
+        "metadata": {
+            "source": "WHO, Kenya MOH",
+            "topic": "micronutrients",
+            "year": 2012,
+            "url": "http://guidelines.health.go.ke:8000/media/National_Guidelines_for_Quality_Obstetrics_and_Perinatal_Care.pdf"
+        }
+    },
+    {
+        "text": "Iron is important during pregnancy for the production of haemoglobin and prevention of anaemia. Iron deficiency can lead to fatigue, increased risk of infection and complications during childbirth.",
+        "metadata": {
+            "source": "WHO, Kenya MOH",
+            "topic": "iron",
+            "year": 2012,
+            "url": "http://guidelines.health.go.ke:8000/media/National_Guidelines_for_Quality_Obstetrics_and_Perinatal_Care.pdf"
+        }
+    },
+    {
+        "text": "Folic acid is essential during early pregnancy for the development of the fetal neural tube. Adequate intake helps prevent birth defects affecting the brain and spinal cord.",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "folic_acid",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "Calcium is necessary for the development of strong bones and teeth in the fetus. It also supports maternal bone health during pregnancy.",
+        "metadata": {
+            "source": "WHO, Aga Khan",
+            "topic": "calcium",
+            "year": 2012,
+            "url": "https://hospitals.aku.edu/pakistan/patients-families/Documents/Nutrition%20During%20Pregnancy.pdf"
+        }
+    },
+    {
+        "text": "Iodine is important for thyroid function and fetal brain development. Deficiency can negatively affect cognitive development in the baby.",
+        "metadata": {
+            "source": "WHO, Kenya MOH",
+            "topic": "iodine",
+            "year": 2012,
+            "url": "http://guidelines.health.go.ke:8000/media/National_Guidelines_for_Quality_Obstetrics_and_Perinatal_Care.pdf"
+        }
+    },
+    {
+        "text": "Adequate fluid intake is important during pregnancy to support overall health. Pregnant women are encouraged to drink about 2 to 2.5 litres of water daily.",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "hydration",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "Pregnant women should limit caffeine intake and avoid alcohol. High caffeine intake may increase risks, while alcohol can cause serious harm to fetal development.",
+        "metadata": {
+            "source": "WHO, Johns Hopkins",
+            "topic": "substances_to_avoid",
+            "year": 2012,
+            "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy"
+        }
+    },
+    {
+        "text": "Poor maternal nutrition can lead to complications such as anaemia, preeclampsia, haemorrhage and increased maternal mortality. It can also result in low birth weight and developmental problems in babies.",
+        "metadata": {
+            "source": "UNICEF",
+            "topic": "poor_nutrition_risks",
+            "year": "",
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "A diversified diet using locally available foods is important during pregnancy. Limited access to nutritious foods can negatively affect maternal and child health outcomes.",
+        "metadata": {
+            "source": "Kenya MOH, UNICEF",
+            "topic": "dietary_diversity",
+            "year": 2022,
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "While a balanced diet provides most nutrients, supplements such as iron, folic acid and calcium may be recommended during pregnancy. These help prevent deficiencies and improve maternal and fetal health outcomes.",
+        "metadata": {
+            "source": "WHO, UNICEF",
+            "topic": "supplements",
+            "year": 2012,
+            "url": "https://www.unicef.org/nutrition/maternal"
+        }
+    },
+    {
+        "text": "Small frequent meals can help manage common pregnancy symptoms such as nausea, vomiting, constipation and heartburn. Proper diet and hydration improve comfort during pregnancy.",
+        "metadata": {
+            "source": "Aga Khan",
+            "topic": "diet_symptom_management",
+            "year": "",
+            "url": "https://hospitals.aku.edu/pakistan/patients-families/Documents/Nutrition%20During%20Pregnancy.pdf"
+        }
+    },
+    {
+        "text": "Iron deficiency anaemia is a common health problem during pregnancy, affecting more than 40 percent of pregnant women globally. Pregnant women require additional iron and folic acid to support their health and the development of the fetus.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "iron_deficiency_overview",
+            "year": 2024,
+            "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+        }
+    },
+    {
+        "text": "Deficiencies in iron and folic acid during pregnancy can negatively affect maternal health and fetal development. Iron deficiency can lead to anaemia, fatigue and increased risk of infection, while low folic acid intake increases the risk of neural tube defects.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "deficiency_risks",
+            "year": 2024,
+            "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+        }
+    },
+    {
+        "text": "The World Health Organization recommends daily oral iron and folic acid supplementation during pregnancy. The recommended dose is 30 mg to 60 mg of elemental iron together with 400 micrograms (0.4 mg) of folic acid per day.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "ifa_dosage",
+            "year": 2024,
+            "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+        }
+    },
+    {
+        "text": "Iron and folic acid supplementation helps prevent maternal anaemia, puerperal sepsis, low birth weight and preterm birth. These supplements support both maternal health and healthy fetal development.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "ifa_benefits",
+            "year": 2024,
+            "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+        }
+    },
+    {
+        "text": "Folic acid supplementation should ideally begin before conception or as early as possible during pregnancy. Early intake helps reduce the risk of neural tube defects in the developing fetus.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "folic_acid_timing",
+            "year": 2024,
+            "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+        }
+    },
+    {
+        "text": "Birth preparedness is an important component of pregnancy care that helps women and their families plan for a safe delivery and respond effectively to complications. It focuses on reducing delays in seeking and receiving medical care during childbirth. Proper planning improves maternal and newborn",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "birth_preparedness_overview",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Proper planning improves maternal and newborn health outcomes.",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "birth_preparedness_overview",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Many families view pregnancy as a normal event and may not prepare for childbirth or emergencies. Lack of preparation can lead to delays in seeking care when complications arise. Birth preparedness encourages early planning to ensure timely access to skilled medical care.",
+        "metadata": {
+            "source": "Kenyatta University",
+            "topic": "importance_planning",
+            "year": 2014,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "The World Health Organization recommends that pregnant women develop a written birth preparedness and complication readiness plan. This plan helps ensure that necessary arrangements are in place before labour begins. It also supports quick decision-making in case of emergencies.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "birth_plan",
+            "year": 2022,
+            "url": "https://www.who.int/tools/your-life-your-health/life-phase/pregnancy--birth-and-after-childbirth/making-plans-for-childbirth-when-pregnant"
+        }
+    },
+    {
+        "text": "A birth preparedness plan should include identifying the health facility where the woman will give birth and arranging reliable transportation. Planning transport in advance helps ensure that the woman can reach the facility quickly when labour begins or in case of complications.",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "health_facility_transport",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Families should plan for the financial costs associated with childbirth and possible emergencies. Saving money in advance helps avoid delays in receiving care due to lack of funds. Financial preparedness is a key part of safe delivery planning.",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "financial_preparation",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Pregnant women are encouraged to identify a skilled health worker who will attend the birth. Having a trained professional present during delivery improves the chances of detecting and managing complications early.",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "skilled_birth_attendant",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Women should identify family members or friends who can provide support during labour and childbirth. Choosing a trusted birth companion can improve comfort and emotional support during delivery.",
+        "metadata": {
+            "source": "WHO, Kenyatta University",
+            "topic": "support_system",
+            "year": 2022,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Birth preparedness includes arranging support for household responsibilities while the woman is away. Families should also identify a decision maker who can act quickly during labour or emergencies.",
+        "metadata": {
+            "source": "Kenyatta University",
+            "topic": "household_support",
+            "year": 2014,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Families may prepare for emergencies by identifying compatible blood donors and knowing the nearest health facility that can handle complications. This preparation helps reduce delays in receiving life-saving care.",
+        "metadata": {
+            "source": "Kenyatta University",
+            "topic": "emergency_preparedness",
+            "year": 2014,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Women should prepare essential supplies for childbirth, such as clean cloths for drying and wrapping the newborn. Having these items ready ensures better hygiene and care during delivery and the immediate postnatal period.",
+        "metadata": {
+            "source": "WHO",
+            "topic": "childbirth_supplies",
+            "year": 2022,
+            "url": "https://www.who.int/tools/your-life-your-health/life-phase/pregnancy--birth-and-after-childbirth/making-plans-for-childbirth-when-pregnant"
+        }
+    },
+    {
+        "text": "Pregnant women should discuss and review their birth preparedness plan with a skilled healthcare provider during antenatal visits. The plan should be updated as the expected delivery date approaches to ensure readiness.",
+        "metadata": {
+            "source": "Kenyatta University",
+            "topic": "plan_review",
+            "year": 2014,
+            "url": "https://ir-library.ku.ac.ke/server/api/core/bitstreams/b447bb8e-3ab1-414c-bd1b-cdc7a1af9c6d/content"
+        }
+    },
+    {
+        "text": "Women and their families should be aware of danger signs during the postnatal period, as many maternal deaths occur within the first week after childbirth. Early recognition of warning signs and prompt medical care are essential to prevent serious complications.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_overview",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Heavy vaginal bleeding after childbirth is a life-threatening emergency. It may indicate postpartum hemorrhage, which requires immediate medical attention. Women experiencing excessive bleeding should go to a health facility without delay.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_bleeding",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Convulsions or fits after childbirth are serious danger signs that may indicate severe complications such as eclampsia. These symptoms can threaten the life of the mother and require urgent hospital care.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_convulsions",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Fast or difficult breathing, chest pain, or swelling and redness in the legs after childbirth may indicate serious conditions such as infection or blood clots. These symptoms require immediate medical attention.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_breathing",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Severe headaches accompanied by blurred vision, as well as high fever with extreme weakness, are danger signs during the postnatal period. These symptoms may indicate infection or other complications and require urgent medical care.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_headache_fever",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Swollen, red or painful breasts or nipples after childbirth may indicate infection or breastfeeding complications. These symptoms should be evaluated by a healthcare provider as soon as possible.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_breast_issues",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Problems with urination, increasing pain in the perineum, or signs of infection in wounds after delivery are warning signs. These conditions may worsen if untreated and require medical evaluation.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_urinary_perineum",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Problems with urination, increasing pain in the perineum, or signs of infection in wounds after delivery are warning signs. These conditions may worsen if untreated and require medical evaluation.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_urinary_perineum",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Some women experience mild emotional changes after childbirth known as postnatal blues. These symptoms may include low mood, fatigue and sleep disturbances and usually resolve within the first two weeks.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_blues",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Persistent sadness, loss of interest in activities, feelings of hopelessness or thoughts of harming oneself or the baby may indicate postnatal depression. This condition is more severe than postnatal blues and requires medical attention and support.",
+        "metadata": {
+            "source": "World Health Organization / National Library of Medicine",
+            "topic": "postnatal_depression",
+            "year": 2013,
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK304191/"
+        }
+    },
+    {
+        "text": "Signs that labour is near can vary from one woman to another and may appear gradually. These early signs indicate that the body is preparing for childbirth, although active labour may still be days or weeks away.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "early_labour_overview",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Mild cramps similar to menstrual cramps are a common early sign of labour. These occur as the cervix begins to soften and thin in preparation for childbirth. Persistent lower back pain may also occur as the baby moves into position.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "labour_cramps_back_pain",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Pelvic pressure increases as the baby drops lower into the pelvis, a process known as lightening. This may make breathing easier but can cause discomfort in the lower abdomen and increased need to urinate.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "pelvic_pressure_lightening",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Loss of the mucus plug is a common sign that labour is approaching. It may be accompanied by increased or thicker vaginal discharge as the cervix begins to open and prepare for birth.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "mucus_plug_discharge",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Fatigue or sudden exhaustion is common in the final days before labour. Some women may also experience insomnia due to discomfort, hormonal changes or anticipation of childbirth.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "fatigue_insomnia_labour",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Changes in digestion such as loose stools, diarrhea, nausea or reduced appetite may occur before labour. These changes happen as the body prepares for childbirth and clears the digestive system.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "digestive_changes_labour",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Hormonal changes before labour can cause increased joint flexibility and occasional clumsiness. The hormone relaxin helps loosen joints in preparation for delivery.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "hormonal_physical_changes",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Some women experience a sudden burst of energy before labour, often called nesting. This instinct leads to activities such as cleaning or preparing for the baby’s arrival.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "nesting_energy",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Sharp pelvic pain, sometimes referred to as lightning crotch, can occur as the baby presses on nerves while moving into position. Although uncomfortable, it is a normal sign that labour may be approaching.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "pelvic_nerve_pain",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Braxton Hicks contractions are irregular contractions that help prepare the body for labour. Unlike true labour contractions, they do not become stronger or more frequent and usually stop with rest.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "braxton_hicks",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Active labour is the stage when childbirth is imminent and requires medical attention. Recognizing the signs of active labour is essential for timely care and safe delivery.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "active_labour_overview",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "True labour contractions become stronger, longer and more regular over time. They occur at consistent intervals and do not stop with rest or changes in position.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "labour_contractions",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Water breaking occurs when the amniotic sac ruptures, releasing fluid. This is a key sign that labour has started and requires attention from a healthcare provider.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "water_breaking",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "As labour progresses, women may feel a strong urge to push as the baby moves into the birth canal. This indicates that delivery is approaching.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "urge_to_push",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Intense pelvic pressure occurs as the baby moves deeper into the birth canal. This is a sign that labour is advancing toward delivery.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "intense_pelvic_pressure",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Certain symptoms during labour require immediate medical attention. These include chest pain, dizziness, fainting, severe nausea and swelling of the face, arms or legs.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "labour_emergency_signs",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    },
+    {
+        "text": "Heavy vaginal bleeding or a significant decrease in the baby’s movement are serious warning signs. Immediate medical care is necessary to prevent complications.",
+        "metadata": {
+            "source": "The Mother Baby Center",
+            "topic": "labour_critical_signs",
+            "year": 2025,
+            "url": "https://www.themotherbabycenter.org/blog/2025/08/signs-labor-is-near/"
+        }
+    }
+]
