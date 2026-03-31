@@ -1,0 +1,100 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f6f1f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main Container */
+.container {
+    text-align: center;
+    max-width: 700px;
+    padding: 20px;
+}
+
+/* Image Container */
+.image-container {
+    margin-top: 60px; /* space from top */
+    margin-bottom: 20px;
+}
+
+/* Image */
+.image-container img {
+    width: 195px;
+    height: 195px;
+    border-radius: 50%;
+    object-fit: cover;
+
+    /* THIS FIXES THE CROPPING */
+    object-position: top;
+
+    box-shadow: 0 0 0 8px rgba(255, 192, 203, 0.2);
+}
+
+/* Title */
+.title {
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    color: #4b2e2e;
+    margin-bottom: 10px;
+}
+
+.flower {
+    font-size: 40px;
+}
+
+/* Subtitle */
+.subtitle {
+    color: #d17a8a;
+    letter-spacing: 2px;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* Description */
+.description {
+    color: #7a6a6a;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+
+.brand {
+    color: #d17a8a;
+    font-weight: 500;
+}
+
+/* Button */
+.chat-btn {
+    background-color: #c97b8c;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 18px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* Hover effect (enlarge) */
+.chat-btn:hover {
+    transform: scale(1.1);
+    background-color: #b96c7d;
+}
+
+/* Footer */
+.footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #9a8c8c;
+}

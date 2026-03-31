@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SafariYaMama Chat</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+
+    <!-- Icons & Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+
+<body class="chat-page">
+
+    <div class="chat-wrapper">
+
+        <!-- Header -->
+        <header class="chat-header">
+            <a href="/" class="back-btn">
+                <i class="fa-solid fa-arrow-left"></i>
+            </a>
+            <div class="header-info">
+                <h1>SafariYaMama Chat 🌸</h1>
+                <p>Your caring companion 🌷</p>
+            </div>
+        </header>
+
+        <!-- Chat Messages -->
+        <div class="chat-window" id="chatWindow">
+
+            <div class="msg bot-msg">
+                Hello! 👋 Welcome to SafariYaMama. I'm here to support you through your pregnancy journey. How can I help you today? 💕
+            </div>
+
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-section">
+            <div class="input-pill">
+                <input 
+                    type="text" 
+                    placeholder="Type your message... 🌿" 
+                    id="userMsgInput"
+                >
+            </div>
+
+            <button class="send-btn" id="sendBtn">
+                <i class="fa-solid fa-paper-plane"></i>
+            </button>
+        </div>
+
+    </div>
+
+<!-- JAVASCRIPT -->
+<script>
+
+const chatWindow = document.getElementById("chatWindow");
+const inputBox = document.getElementById("userMsgInput");
+const sendBtn = document.getElementById("sendBtn");
+
+// Add message to chat UI
+function addMessage(text, className) {
+    const msg = document.createElement("div");
+    msg.classList.add("msg", className);
+    msg.textContent = text;
+
+    chatWindow.appendChild(msg);
+
+    // Auto scroll to bottom
+    chatWindow.scrollTop = chatWindow.scrollHeight;
+}
+
+// Send message to backend
+async function sendMessage() {
+    const message = inputBox.value.trim();
+
+    if (!message) return;
+
+    // Show user message
+    addMessage(message, "user-msg");
+
+    inputBox.value = "";
+
+    try {
+        addMessage("Typing...", "bot-msg");
+        const response = await fetch("/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ message: message })
+        });
+
+        const data = await response.json();
+
+        // Show chatbot response + sources
+        let fullResponse = data.response;
+
+        if (data.sources && data.sources.length > 0) {
+            fullResponse += "\n\nSources: " + data.sources.join(", ");
+        }
+
+        addMessage(fullResponse, "bot-msg");
+
+    } catch (error) {
+        console.error(error);
+        addMessage("⚠️ Something went wrong. Please try again.", "bot-msg");
+    }
+}
+
+// Click send
+sendBtn.addEventListener("click", sendMessage);
+
+// Press Enter
+inputBox.addEventListener("keypress", function(e) {
+    if (e.key === "Enter") {
+        sendMessage();
+    }
+});
+
+</script>
+
+</body>
+</html>

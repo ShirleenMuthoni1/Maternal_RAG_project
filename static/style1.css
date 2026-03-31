@@ -1,0 +1,143 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.chat-page {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fcf8f9;
+    height: 100vh; /* Set to full screen height */
+    display: flex;
+    justify-content: center;
+    overflow: hidden; /* Prevents the whole browser from scrolling */
+}
+
+.chat-wrapper {
+    width: 100%;
+    max-width: 900px;
+    height: 100vh; /* Full height of the screen */
+    display: flex;
+    flex-direction: column; /* Stacks items vertically */
+    background-color: #ffffff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+/* Header Section */
+.chat-header {
+    display: flex;
+    align-items: center;
+    padding: 20px 30px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2ecec;
+    flex-shrink: 0; /* Header stays same size */
+}
+
+.back-btn {
+    font-size: 20px;
+    color: #d17a8a;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.header-info h1 {
+    font-family: 'Playfair Display', serif;
+    color: #d17a8a;
+    font-size: 24px;
+}
+
+.header-info p {
+    color: #888;
+    font-size: 13px;
+}
+
+/* --- THE KEY FIX: Chat Messages Area --- */
+.chat-window {
+    flex: 1;           /* Grows to occupy all available vertical space */
+    padding: 30px;
+    overflow-y: auto;  /* Allows scrolling only inside the messages */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.msg {
+    max-width: 75%;
+    padding: 15px 25px;
+    border-radius: 25px;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.bot-msg {
+    align-self: flex-start;
+    background-color: #f6efeb;
+    color: #4b2e2e;
+    border-bottom-left-radius: 5px;
+}
+
+.user-msg {
+    align-self: flex-end;
+    background-color: #d17a8a;
+    color: white;
+    border-bottom-right-radius: 5px;
+}
+
+/* --- Bottom Input Bar --- */
+.input-section {
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: white;
+    border-top: 1px solid #f2ecec;
+    flex-shrink: 0; /* Ensures the bar doesn't shrink */
+}
+
+.input-pill {
+    flex: 1;
+}
+
+.input-pill input {
+    width: 100%;
+    padding: 16px 25px;
+    border-radius: 35px;
+    border: 1px solid #eee;
+    background-color: #f9f9f9;
+    outline: none;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+/* Deep color when clicking the input box */
+.input-pill input:focus {
+    background-color: #f1e4e7; 
+    border-color: #d17a8a;
+}
+
+/* Send Button */
+.send-btn {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: none;
+    background-color: #e8ccd2;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s ease;
+}
+
+.send-btn:hover {
+    background-color: #d17a8a;
+}
+
+/* Deep color when clicking the send button */
+.send-btn:active {
+    background-color: #a65d6b; 
+    transform: scale(0.92); /* Press effect */
+}
